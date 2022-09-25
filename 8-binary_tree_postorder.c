@@ -4,7 +4,8 @@
 
 
 /**
- * binary_tree_postorder - goes through a binary tree using post-order traversal
+ * binary_tree_postorder - goes through a binary tree
+ * using post-order traversal
  * @tree: root node of the three to traverse
  * @func: function to call for each node
  * Return: nothing

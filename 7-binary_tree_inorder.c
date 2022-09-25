@@ -4,7 +4,7 @@
 
 
 /**
- * binary_tree_inorder - function that goes through a binary tree using in-order traversal
+ * binary_tree_inorder - goes through a binary tree using in-order traversal
  * @tree: root node of the three to traverse
  * @func: function to call for each node
  * Return: nothing

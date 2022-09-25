@@ -4,7 +4,7 @@
 
 
 /**
- * binary_tree_preorder - function that goes through a binary tree using pre-order traversal
+ * binary_tree_preorder - goes through a binary tree using pre-order traversal
  * @tree: root node of the three to traverse
  * @func: function to call for each node
  * Return: nothing

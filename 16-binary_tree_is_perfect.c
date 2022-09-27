@@ -24,7 +24,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 	if (left >= 0 && right >= 0 && left == right)
 	{
 		for (i = 0, pow = 1; i <= left + 1; i++)
-                	pow *= 2;
+			pow *= 2;
 
 		if (pow - 1 == size)
 			return (1);
